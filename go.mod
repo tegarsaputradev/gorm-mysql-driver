@@ -1,4 +1,4 @@
-module gorm.io/driver/mysql
+module github.com/tegarsaputradev/gorm-mysql-driver
 
 go 1.18
 
